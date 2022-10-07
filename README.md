@@ -123,7 +123,7 @@ Environments:
 - 13.00 Breakouts
 - 15.30 Team Presentations
 - 16.30 Summary and Key Takeaway
-- 17.00 End of the session
+- 17.00 End
 
 ## Adobe Contacts
 - Dominik Gach, dgach@adobe.com
