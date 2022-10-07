@@ -127,11 +127,10 @@ Environments:
 
 ## Adobe Contacts
 - Dominik Gach, dgach@adobe.com
-- Radim Sevcik, sevcik@adobe.com
-- Nishant Pithia, pithia@adobe.com
+- Zofia Korczyc, zkorczyc@adobe.com
 
 ## Feedback Form
 
 We will be more than happy to hear about your experience today. Any suggestions how to imporve this series are highly valuable to us.
-Link: https://forms.office.com/r/8NjntSwiqB 
+Link: https://forms.office.com/r/NsXW3GSMrY
 
